@@ -43,21 +43,21 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/commons": "^4.5.3",
-    "@feathersjs/errors": "^4.5.3",
-    "debug": "^4.1.1",
-    "lodash": "^4.17.19",
+    "@feathersjs/commons": "^5.0.10",
+    "@feathersjs/errors": "^5.0.10",
+    "debug": "^4.3.4",
+    "lodash": "^4.17.21",
     "radix-router": "^3.0.1"
   },
   "devDependencies": {
-    "@feathersjs/feathers": "^4.5.3",
-    "@types/debug": "^4.1.5",
-    "@types/mocha": "^7.0.2",
-    "@types/node": "^14.0.22",
-    "mocha": "^8.0.1",
-    "shx": "^0.3.2",
-    "ts-node": "^8.10.2",
-    "typescript": "^3.9.6"
+    "@feathersjs/feathers": "^5.0.10",
+    "@types/debug": "^4.1.9",
+    "@types/mocha": "^10.0.2",
+    "@types/node": "^20.8.3",
+    "mocha": "^10.2.0",
+    "shx": "^0.3.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
