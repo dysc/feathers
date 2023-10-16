@@ -43,9 +43,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/errors": "^5.0.10",
-    "@feathersjs/feathers": "^5.0.10",
-    "@feathersjs/transport-commons": "^5.0.10",
+    "@feathersjs/errors": "^5.0.11",
+    "@feathersjs/feathers": "^5.0.11",
+    "@feathersjs/transport-commons": "^5.0.11",
     "@types/jsonwebtoken": "^9.0.3",
     "debug": "^4.3.4",
     "jsonwebtoken": "^9.0.2",
@@ -57,7 +57,7 @@
     "@types/debug": "^4.1.9",
     "@types/lodash": "^4.14.199",
     "@types/mocha": "^10.0.2",
-    "@types/node": "^20.8.3",
+    "@types/node": "^20.8.6",
     "@types/uuid": "^9.0.5",
     "feathers-memory": "^4.1.0",
     "mocha": "^10.2.0",
