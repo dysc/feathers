@@ -53,10 +53,10 @@
     "debug": "^4.3.4"
   },
   "devDependencies": {
-    "@types/config": "^3.3.2",
-    "@types/debug": "^4.1.10",
-    "@types/mocha": "^10.0.3",
-    "@types/node": "^20.8.10",
+    "@types/config": "^3.3.3",
+    "@types/debug": "^4.1.12",
+    "@types/mocha": "^10.0.4",
+    "@types/node": "^20.9.0",
     "mocha": "^10.2.0",
     "shx": "^0.3.4",
     "ts-node": "^10.9.1",
