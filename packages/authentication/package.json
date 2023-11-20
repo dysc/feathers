@@ -57,7 +57,7 @@
     "@types/debug": "^4.1.12",
     "@types/lodash": "^4.14.201",
     "@types/mocha": "^10.0.4",
-    "@types/node": "^20.9.0",
+    "@types/node": "^20.9.2",
     "@types/uuid": "^9.0.7",
     "feathers-memory": "^4.1.0",
     "mocha": "^10.2.0",

@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "lerna": "^7.4.2",
-    "npm-check-updates": "^16.14.6",
+    "npm-check-updates": "^16.14.11",
     "nyc": "^15.1.0",
     "tslint": "^6.1.3"
   }
