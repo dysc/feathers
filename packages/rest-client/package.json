@@ -40,17 +40,17 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/commons": "^5.0.11",
-    "@feathersjs/errors": "^5.0.11",
+    "@feathersjs/commons": "^5.0.12",
+    "@feathersjs/errors": "^5.0.12",
     "qs": "^6.11.2"
   },
   "devDependencies": {
-    "@angular/common": "^17.0.4",
-    "@angular/core": "^17.0.4",
+    "@angular/common": "^17.0.5",
+    "@angular/core": "^17.0.5",
     "@angular/http": "^7.2.16",
-    "@angular/platform-browser": "^17.0.4",
-    "@feathersjs/express": "^5.0.11",
-    "@feathersjs/feathers": "^5.0.11",
+    "@angular/platform-browser": "^17.0.5",
+    "@feathersjs/express": "^5.0.12",
+    "@feathersjs/feathers": "^5.0.12",
     "@feathersjs/tests": "^4.5.3",
     "axios": "^1.6.2",
     "body-parser": "^1.20.2",
