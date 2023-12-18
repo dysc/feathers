@@ -39,8 +39,8 @@
     "IE 10"
   ],
   "devDependencies": {
-    "@babel/core": "^7.23.5",
-    "@babel/preset-env": "^7.23.5",
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
     "@feathersjs/authentication-client": "^5.0.12",
     "@feathersjs/errors": "^5.0.12",
     "@feathersjs/express": "^5.0.12",
@@ -66,7 +66,7 @@
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^5.89.0",
     "webpack-merge": "^5.10.0",
-    "ws": "^8.15.0",
+    "ws": "^8.15.1",
     "xhr2": "^0.2.1"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
