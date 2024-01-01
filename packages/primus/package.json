@@ -40,21 +40,21 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/transport-commons": "^5.0.12",
+    "@feathersjs/transport-commons": "^5.0.13",
     "debug": "^4.3.4",
     "primus": "^8.0.9",
     "primus-emitter": "^3.1.1",
     "uberproto": "^2.0.6"
   },
   "devDependencies": {
-    "@feathersjs/commons": "^5.0.12",
-    "@feathersjs/express": "^5.0.12",
-    "@feathersjs/feathers": "^5.0.12",
+    "@feathersjs/commons": "^5.0.13",
+    "@feathersjs/express": "^5.0.13",
+    "@feathersjs/feathers": "^5.0.13",
     "@feathersjs/tests": "^4.5.3",
     "feathers-memory": "^4.1.0",
     "lodash": "^4.17.21",
     "mocha": "^10.2.0",
-    "ws": "^8.15.1"
+    "ws": "^8.16.0"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
