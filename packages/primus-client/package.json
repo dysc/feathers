@@ -40,11 +40,11 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/transport-commons": "^5.0.13"
+    "@feathersjs/transport-commons": "^5.0.14"
   },
   "devDependencies": {
-    "@feathersjs/commons": "^5.0.13",
-    "@feathersjs/feathers": "^5.0.13",
+    "@feathersjs/commons": "^5.0.14",
+    "@feathersjs/feathers": "^5.0.14",
     "@feathersjs/primus": "^4.5.15",
     "@feathersjs/tests": "^4.5.3",
     "feathers-memory": "^4.1.0",
