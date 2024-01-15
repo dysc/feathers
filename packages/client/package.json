@@ -40,7 +40,7 @@
   ],
   "devDependencies": {
     "@babel/core": "^7.23.7",
-    "@babel/preset-env": "^7.23.7",
+    "@babel/preset-env": "^7.23.8",
     "@feathersjs/authentication-client": "^5.0.14",
     "@feathersjs/errors": "^5.0.14",
     "@feathersjs/express": "^5.0.14",
@@ -61,7 +61,7 @@
     "node-fetch": "^3.3.2",
     "parallel-webpack": "^2.6.0",
     "request": "^2.88.2",
-    "socket.io-client": "^4.7.3",
+    "socket.io-client": "^4.7.4",
     "superagent": "^8.1.2",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^5.89.0",

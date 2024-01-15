@@ -43,7 +43,7 @@
     "@feathersjs/transport-commons": "^5.0.14",
     "@types/socket.io": "^3.0.2",
     "debug": "^4.3.4",
-    "socket.io": "^4.7.3",
+    "socket.io": "^4.7.4",
     "uberproto": "^2.0.6"
   },
   "devDependencies": {
@@ -53,11 +53,11 @@
     "@feathersjs/tests": "^4.5.3",
     "@types/mocha": "^10.0.6",
     "@types/mongodb": "^4.0.7",
-    "@types/node": "^20.10.7",
+    "@types/node": "^20.11.0",
     "feathers-memory": "^4.1.0",
     "lodash": "^4.17.21",
     "mocha": "^10.2.0",
-    "socket.io-client": "^4.7.3"
+    "socket.io-client": "^4.7.4"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
