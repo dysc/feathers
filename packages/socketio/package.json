@@ -40,20 +40,20 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/transport-commons": "^5.0.14",
+    "@feathersjs/transport-commons": "^5.0.21",
     "@types/socket.io": "^3.0.2",
     "debug": "^4.3.4",
     "socket.io": "^4.7.4",
     "uberproto": "^2.0.6"
   },
   "devDependencies": {
-    "@feathersjs/commons": "^5.0.14",
-    "@feathersjs/express": "^5.0.14",
-    "@feathersjs/feathers": "^5.0.14",
+    "@feathersjs/commons": "^5.0.21",
+    "@feathersjs/express": "^5.0.21",
+    "@feathersjs/feathers": "^5.0.21",
     "@feathersjs/tests": "^4.5.3",
     "@types/mocha": "^10.0.6",
     "@types/mongodb": "^4.0.7",
-    "@types/node": "^20.11.5",
+    "@types/node": "^20.11.10",
     "feathers-memory": "^4.1.0",
     "lodash": "^4.17.21",
     "mocha": "^10.2.0",

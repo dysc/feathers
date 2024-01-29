@@ -43,12 +43,12 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/authentication": "^5.0.14",
-    "@feathersjs/errors": "^5.0.14",
-    "@feathersjs/express": "^5.0.14",
-    "@feathersjs/feathers": "^5.0.14",
+    "@feathersjs/authentication": "^5.0.21",
+    "@feathersjs/errors": "^5.0.21",
+    "@feathersjs/express": "^5.0.21",
+    "@feathersjs/feathers": "^5.0.21",
     "debug": "^4.3.4",
-    "express-session": "^1.17.3",
+    "express-session": "^1.18.0",
     "grant": "^5.4.22",
     "grant-profile": "^1.0.2",
     "lodash": "^4.17.21"
@@ -59,8 +59,8 @@
     "@types/express-session": "^1.17.10",
     "@types/lodash": "^4.14.202",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.11.5",
-    "axios": "^1.6.5",
+    "@types/node": "^20.11.10",
+    "axios": "^1.6.7",
     "mocha": "^10.2.0",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
