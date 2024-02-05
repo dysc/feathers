@@ -49,14 +49,14 @@
   },
   "dependencies": {
     "@feathersjs/feathers": "^5.0.21",
-    "config": "^3.3.10",
+    "config": "^3.3.11",
     "debug": "^4.3.4"
   },
   "devDependencies": {
     "@types/config": "^3.3.3",
     "@types/debug": "^4.1.12",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.11.10",
+    "@types/node": "^20.11.16",
     "mocha": "^10.2.0",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
