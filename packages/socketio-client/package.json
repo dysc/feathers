@@ -40,13 +40,13 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/transport-commons": "^5.0.22",
+    "@feathersjs/transport-commons": "^5.0.23",
     "@types/socket.io-client": "^3.0.0"
   },
   "devDependencies": {
-    "@feathersjs/commons": "^5.0.22",
-    "@feathersjs/feathers": "^5.0.22",
-    "@feathersjs/socketio": "^5.0.22",
+    "@feathersjs/commons": "^5.0.23",
+    "@feathersjs/feathers": "^5.0.23",
+    "@feathersjs/socketio": "^5.0.23",
     "@feathersjs/tests": "^4.5.3",
     "feathers-memory": "^4.1.0",
     "mocha": "^10.3.0",
