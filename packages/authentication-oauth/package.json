@@ -59,12 +59,12 @@
     "@types/express-session": "^1.18.0",
     "@types/lodash": "^4.14.202",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.11.24",
+    "@types/node": "^20.11.25",
     "axios": "^1.6.7",
     "mocha": "^10.3.0",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.2"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
