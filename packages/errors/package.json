@@ -39,7 +39,7 @@
 		"debug": "^4.3.4"
 	},
 	"devDependencies": {
-		"@feathersjs/feathers": "^5.0.23",
+		"@feathersjs/feathers": "^5.0.24",
 		"express": "^4.18.3",
 		"mocha": "^10.3.0"
 	},

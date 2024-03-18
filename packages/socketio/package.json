@@ -40,24 +40,24 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/transport-commons": "^5.0.23",
+    "@feathersjs/transport-commons": "^5.0.24",
     "@types/socket.io": "^3.0.2",
     "debug": "^4.3.4",
-    "socket.io": "^4.7.4",
+    "socket.io": "^4.7.5",
     "uberproto": "^2.0.6"
   },
   "devDependencies": {
-    "@feathersjs/commons": "^5.0.23",
-    "@feathersjs/express": "^5.0.23",
-    "@feathersjs/feathers": "^5.0.23",
+    "@feathersjs/commons": "^5.0.24",
+    "@feathersjs/express": "^5.0.24",
+    "@feathersjs/feathers": "^5.0.24",
     "@feathersjs/tests": "^4.5.3",
     "@types/mocha": "^10.0.6",
     "@types/mongodb": "^4.0.7",
-    "@types/node": "^20.11.25",
+    "@types/node": "^20.11.28",
     "feathers-memory": "^4.1.0",
     "lodash": "^4.17.21",
     "mocha": "^10.3.0",
-    "socket.io-client": "^4.7.4"
+    "socket.io-client": "^4.7.5"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
