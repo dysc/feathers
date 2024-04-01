@@ -48,7 +48,7 @@
     "@feathersjs/primus": "^4.5.15",
     "@feathersjs/tests": "^4.5.3",
     "feathers-memory": "^4.1.0",
-    "mocha": "^10.3.0",
+    "mocha": "^10.4.0",
     "ws": "^8.16.0"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"

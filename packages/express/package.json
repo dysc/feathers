@@ -44,7 +44,7 @@
     "@feathersjs/errors": "^5.0.24",
     "@types/express": "^4.17.21",
     "debug": "^4.3.4",
-    "express": "^4.19.1",
+    "express": "^4.19.2",
     "lodash": "^4.17.21",
     "uberproto": "^2.0.6"
   },
@@ -55,7 +55,7 @@
     "@feathersjs/tests": "^4.5.3",
     "axios": "^1.6.8",
     "lodash": "^4.17.21",
-    "mocha": "^10.3.0"
+    "mocha": "^10.4.0"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }

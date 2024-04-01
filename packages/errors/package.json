@@ -40,8 +40,8 @@
 	},
 	"devDependencies": {
 		"@feathersjs/feathers": "^5.0.24",
-		"express": "^4.19.1",
-		"mocha": "^10.3.0"
+		"express": "^4.19.2",
+		"mocha": "^10.4.0"
 	},
 	"gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
