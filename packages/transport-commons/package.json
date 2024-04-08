@@ -53,11 +53,11 @@
     "@feathersjs/feathers": "^5.0.24",
     "@types/debug": "^4.1.12",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.12.2",
+    "@types/node": "^20.12.5",
     "mocha": "^10.4.0",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.3"
+    "typescript": "^5.4.4"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
