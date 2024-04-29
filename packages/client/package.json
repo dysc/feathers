@@ -62,11 +62,11 @@
     "parallel-webpack": "^2.6.0",
     "request": "^2.88.2",
     "socket.io-client": "^4.7.5",
-    "superagent": "^8.1.2",
+    "superagent": "^9.0.1",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^5.91.0",
     "webpack-merge": "^5.10.0",
-    "ws": "^8.16.0",
+    "ws": "^8.17.0",
     "xhr2": "^0.2.1"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"

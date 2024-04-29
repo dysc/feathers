@@ -45,10 +45,10 @@
     "qs": "^6.12.1"
   },
   "devDependencies": {
-    "@angular/common": "^17.3.5",
-    "@angular/core": "^17.3.5",
+    "@angular/common": "^17.3.6",
+    "@angular/core": "^17.3.6",
     "@angular/http": "^7.2.16",
-    "@angular/platform-browser": "^17.3.5",
+    "@angular/platform-browser": "^17.3.6",
     "@feathersjs/express": "^5.0.24",
     "@feathersjs/feathers": "^5.0.24",
     "@feathersjs/tests": "^4.5.3",
@@ -60,7 +60,7 @@
     "request": "^2.88.2",
     "rxjs": "^7.8.1",
     "shx": "^0.3.4",
-    "superagent": "^8.1.2"
+    "superagent": "^9.0.1"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
