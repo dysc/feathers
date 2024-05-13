@@ -59,7 +59,7 @@
     "@types/express-session": "^1.18.0",
     "@types/lodash": "^4.17.1",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.12.8",
+    "@types/node": "^20.12.11",
     "axios": "^1.6.8",
     "mocha": "^10.4.0",
     "shx": "^0.3.4",
