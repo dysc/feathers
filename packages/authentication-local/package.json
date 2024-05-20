@@ -53,9 +53,9 @@
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
     "@types/debug": "^4.1.12",
-    "@types/lodash": "^4.17.1",
+    "@types/lodash": "^4.17.4",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.12.11",
+    "@types/node": "^20.12.12",
     "mocha": "^10.4.0",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
