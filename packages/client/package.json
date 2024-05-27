@@ -39,8 +39,8 @@
     "IE 10"
   ],
   "devDependencies": {
-    "@babel/core": "^7.24.5",
-    "@babel/preset-env": "^7.24.5",
+    "@babel/core": "^7.24.6",
+    "@babel/preset-env": "^7.24.6",
     "@feathersjs/authentication-client": "^5.0.25",
     "@feathersjs/errors": "^5.0.25",
     "@feathersjs/express": "^5.0.25",
@@ -55,7 +55,7 @@
     "body-parser": "^1.20.2",
     "feathers-memory": "^4.1.0",
     "jquery": "^3.7.1",
-    "jsdom": "^24.0.0",
+    "jsdom": "^24.1.0",
     "mocha": "^10.4.0",
     "mocha-puppeteer": "^0.14.0",
     "node-fetch": "^3.3.2",
