@@ -36,7 +36,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"debug": "^4.3.4"
+		"debug": "^4.3.5"
 	},
 	"devDependencies": {
 		"@feathersjs/feathers": "^5.0.25",
