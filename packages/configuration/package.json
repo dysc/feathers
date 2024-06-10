@@ -48,7 +48,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/feathers": "^5.0.25",
+    "@feathersjs/feathers": "^5.0.26",
     "config": "^3.3.11",
     "debug": "^4.3.5"
   },
@@ -56,7 +56,7 @@
     "@types/config": "^3.3.4",
     "@types/debug": "^4.1.12",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.14.0",
+    "@types/node": "^20.14.2",
     "mocha": "^10.4.0",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",

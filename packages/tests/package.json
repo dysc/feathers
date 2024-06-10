@@ -46,12 +46,12 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@feathersjs/feathers": "^5.0.25",
+    "@feathersjs/feathers": "^5.0.26",
     "@types/axios": "^0.14.0",
     "@types/debug": "^4.1.12",
-    "@types/lodash": "^4.17.4",
+    "@types/lodash": "^4.17.5",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.14.0",
+    "@types/node": "^20.14.2",
     "mocha": "^10.4.0",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
